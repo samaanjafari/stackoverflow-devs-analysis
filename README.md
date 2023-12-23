@@ -1,5 +1,7 @@
 # StackoverFlow-Survey-Analysing-
 It is just a fun project that i'm doing it just for fun that i am analysing 2023 stackoverflow survey and scrap what it is interesting for me with pandas.
+# Stack overflow survey 2023 dataset link:
+https://survey.stackoverflow.co/2023
 # Virtual environment:
 ### I'm runnig this project on a local jupyterlab server with virtual environment that i will put step by step how to create a virtual environment if u are basic so follow process on your computer terminal.
 ### !!!these commands are on windows if it didn't work u can search if u are runnig it in another OS system:
