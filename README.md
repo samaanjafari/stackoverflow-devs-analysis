@@ -52,12 +52,14 @@ pip install -r requirments.txt
 
 
 ## For installing jupterlab or notebook module just need to run this bash:
-pip install jupyter lab
+pip install jupyterlab
 
 ## NOW For our purpose of building venv module we just need these steps after you bulid it once:
 
 1. cd (path of directory of venv that u had been created)
+### To active virtual environment:
 2. venv/Scripts/activate
-3. jupyter lab
-4. ### Congratulation Now u will be direct to a local host server in browser and can have your jupyter IDLE there.
+### TO Run Local Server and go directly to jupyter idle:
+4. jupyter lab
+ ### Congratulation Now u will be direct to a local host server in browser and can have your jupyter IDLE there.
 
